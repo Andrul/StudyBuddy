@@ -5,4 +5,5 @@ package bogensperger.altmann.studybuddyshared;
  */
 public class StudyBuddy {
     //les dir mal durch und sag mir die zahl 753
+    //neuer Test
 }
